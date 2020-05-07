@@ -35,28 +35,28 @@ public class Driver
         System.out.println("TESTING RANDOOM LETTER CHOOSER");
         System.out.println("==============================\n");
 
-//        RandomLetterChooser letterChooser = new RandomLetterChooser("cat");
-//        for (int k = 0; k < 4; k++)
-//        {
-//            System.out.print(letterChooser.getNext());
-//        }
-//
-//        System.out.println("\n");
-//
-//        letterChooser = new RandomLetterChooser("texts");
-//        for (int k = 0; k < 5; k++)
-//        {
-//            System.out.print(letterChooser.getNext());
-//        }
-//
-//        System.out.println("\n");
-//
-//        letterChooser = new RandomLetterChooser("four");
-//        for (int k = 0; k < 8; k++)
-//        {
-//            System.out.print(letterChooser.getNext());
-//        }
-//
-//        System.out.println("\n");
+        RandomLetterChooser letterChooser = new RandomLetterChooser("cat");
+        for (int k = 0; k < 4; k++)
+        {
+            System.out.print(letterChooser.getNext());
+        }
+
+        System.out.println("\n");
+
+        letterChooser = new RandomLetterChooser("texts");
+        for (int k = 0; k < 5; k++)
+        {
+            System.out.print(letterChooser.getNext());
+        }
+
+        System.out.println("\n");
+
+        letterChooser = new RandomLetterChooser("four");
+        for (int k = 0; k < 8; k++)
+        {
+            System.out.print(letterChooser.getNext());
+        }
+
+        System.out.println("\n");
     }
 }

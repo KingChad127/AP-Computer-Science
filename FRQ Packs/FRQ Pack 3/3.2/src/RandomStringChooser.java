@@ -3,12 +3,12 @@ import java.util.ArrayList;
 public class RandomStringChooser
 {
     String[] wordBank;
-    ArrayList<String> usedWords;
+    ArrayList<Integer> usedWordsIndex;
 
     public RandomStringChooser(String[] wordBank)
     {
         this.wordBank = wordBank;
-        usedWords = new ArrayList<>();
+        usedWordsIndex = new ArrayList<>();
     }
 
     public String getNext()
@@ -16,7 +16,7 @@ public class RandomStringChooser
         //initialize random number
         int randomIndex = 0;
         //if all the words have been used, return "NONE"
-        if (usedWords.size() == wordBank.length)
+        if (usedWordsIndex.size() == wordBank.length)
         {
             return "NONE";
         }
@@ -26,19 +26,19 @@ public class RandomStringChooser
         {
             randomIndex = (int) (Math.random() * wordBank.length);
             int matches = 0;
-            for (String s : usedWords)
+            for (Integer x : usedWordsIndex)
             {
-                if (!wordBank[randomIndex].equals(s))
+                if (randomIndex != x)
                 {
                     matches++;
                 }
             }
-            if (matches == usedWords.size())
+            if (matches == usedWordsIndex.size())
             {
                 used = false;
             }
         }
-        usedWords.add(wordBank[randomIndex]);
+        usedWordsIndex.add(randomIndex);
         return wordBank[randomIndex];
     }
 
