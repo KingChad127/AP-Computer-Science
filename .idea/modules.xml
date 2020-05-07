@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/FRQ Packs/FRQ Pack 3/3.1/3.1.iml" filepath="$PROJECT_DIR$/FRQ Packs/FRQ Pack 3/3.1/3.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FRQ Packs/FRQ Pack 3/3.2/3.2.iml" filepath="$PROJECT_DIR$/FRQ Packs/FRQ Pack 3/3.2/3.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FRQ Packs/FRQ Pack 3/3.3/3.3.iml" filepath="$PROJECT_DIR$/FRQ Packs/FRQ Pack 3/3.3/3.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FRQ Packs/FRQ Pack 4/4.1/4.1.iml" filepath="$PROJECT_DIR$/FRQ Packs/FRQ Pack 4/4.1/4.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/AP-Computer-Science.iml" filepath="$PROJECT_DIR$/.idea/AP-Computer-Science.iml" />
       <module fileurl="file://$PROJECT_DIR$/List.Array CP Medium/Baseball/Baseball.iml" filepath="$PROJECT_DIR$/List.Array CP Medium/Baseball/Baseball.iml" />
       <module fileurl="file://$PROJECT_DIR$/List.Arrays CP Easy/BigNum/BigNum.iml" filepath="$PROJECT_DIR$/List.Arrays CP Easy/BigNum/BigNum.iml" />
