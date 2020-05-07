@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AP-Computer-Science.iml" filepath="$PROJECT_DIR$/.idea/AP-Computer-Science.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List.Array CP Medium/Baseball/Baseball.iml" filepath="$PROJECT_DIR$/List.Array CP Medium/Baseball/Baseball.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List.Arrays CP Easy/BigNum/BigNum.iml" filepath="$PROJECT_DIR$/List.Arrays CP Easy/BigNum/BigNum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String CP Easy/Comments/Comments.iml" filepath="$PROJECT_DIR$/String CP Easy/Comments/Comments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String CP Easy/CountIt/CountIt.iml" filepath="$PROJECT_DIR$/String CP Easy/CountIt/CountIt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List.Array CP Medium/DiverScores/DiverScores.iml" filepath="$PROJECT_DIR$/List.Array CP Medium/DiverScores/DiverScores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List.Array CP Medium/GoFish/GoFish.iml" filepath="$PROJECT_DIR$/List.Array CP Medium/GoFish/GoFish.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String CP Easy/MarkingVowels/MarkingVowels.iml" filepath="$PROJECT_DIR$/String CP Easy/MarkingVowels/MarkingVowels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List.Arrays CP Easy/Mean/Mean.iml" filepath="$PROJECT_DIR$/List.Arrays CP Easy/Mean/Mean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List.Array CP Medium/Modes/Modes.iml" filepath="$PROJECT_DIR$/List.Array CP Medium/Modes/Modes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String CP Easy/NumberLine/NumberLine.iml" filepath="$PROJECT_DIR$/String CP Easy/NumberLine/NumberLine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FRQ Packs/FRQ Pack 2/Question 1/Question 1.iml" filepath="$PROJECT_DIR$/FRQ Packs/FRQ Pack 2/Question 1/Question 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FRQ Packs/FRQ Pack 1/Question 1/Question 11.iml" filepath="$PROJECT_DIR$/FRQ Packs/FRQ Pack 1/Question 1/Question 11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FRQ Packs/FRQ Pack 2/Question 2/Question 2.iml" filepath="$PROJECT_DIR$/FRQ Packs/FRQ Pack 2/Question 2/Question 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FRQ Packs/FRQ Pack 1/Question 2/Question 21.iml" filepath="$PROJECT_DIR$/FRQ Packs/FRQ Pack 1/Question 2/Question 21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FRQ Packs/FRQ Pack 2/Question 3/Question 3.iml" filepath="$PROJECT_DIR$/FRQ Packs/FRQ Pack 2/Question 3/Question 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FRQ Packs/FRQ Pack 1/Question 3/Question 31.iml" filepath="$PROJECT_DIR$/FRQ Packs/FRQ Pack 1/Question 3/Question 31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FRQ Packs/FRQ Pack 2/Question 4/Question 4.iml" filepath="$PROJECT_DIR$/FRQ Packs/FRQ Pack 2/Question 4/Question 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FRQ Packs/FRQ Pack 1/Question 4/Question 41.iml" filepath="$PROJECT_DIR$/FRQ Packs/FRQ Pack 1/Question 4/Question 41.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String CP Easy/RemDups/RemDups.iml" filepath="$PROJECT_DIR$/String CP Easy/RemDups/RemDups.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String CP Easy/ScramWords/ScramWords.iml" filepath="$PROJECT_DIR$/String CP Easy/ScramWords/ScramWords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List.Arrays CP Easy/sevenCounter/sevenCounter.iml" filepath="$PROJECT_DIR$/List.Arrays CP Easy/sevenCounter/sevenCounter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List.Arrays CP Easy/smallNUm/smallNUm.iml" filepath="$PROJECT_DIR$/List.Arrays CP Easy/smallNUm/smallNUm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List.Arrays CP Easy/sumEm/sumEm.iml" filepath="$PROJECT_DIR$/List.Arrays CP Easy/sumEm/sumEm.iml" />
+    </modules>
+  </component>
+</project>
